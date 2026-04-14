@@ -1,6 +1,6 @@
-# Demo Project Summary
+# Project Summary
 
-Demo is a Spring Boot web application built with Java 17 and Maven. This is a beginner-friendly Spring Boot project designed to demonstrate core concepts and best practices.
+This is a Spring Boot web application built with Java 17 and Maven. This is a beginner-friendly Spring Boot project designed to demonstrate core concepts and best practices.
 
 ## Key Features
 
